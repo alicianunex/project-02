@@ -1,4 +1,4 @@
-# GiftME🅰️Quote❓🎁
+# GiftMEQuote❓🎁
 
 ### ABOUT 💡
 
