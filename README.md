@@ -14,8 +14,8 @@ Abre el https://localhost:3000 en el explorador
 
 ### HOW TO PLAY 🕹
 
-Pulsa el botón "averiguar" para comprobar si tus resultados son correctos
-Pulsa el botón "volver a jugar" para visualizar el siguiente "GiphQuote"
+Pulsa el botón "averiguar" para comprobar si tus resultados son correctos.
+Pulsa el botón "volver a jugar" para visualizar el siguiente "GiphQuote".
 
 ### WIREFRAMES 🎮
 
@@ -23,4 +23,4 @@ Pulsa el botón "volver a jugar" para visualizar el siguiente "GiphQuote"
 
 ### PROBLEMS TO FIX 🛠
 
-Añadir la foto del autor cuando la solución sea correcta
+Añadir la foto del autor cuando la solución sea correcta.
